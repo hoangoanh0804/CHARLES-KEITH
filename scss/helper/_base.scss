@@ -1,0 +1,199 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Forum&display=swap");
+@import url("https://fonts.cdnfonts.com/css/futura-pt");
+@import url("https://fonts.cdnfonts.com/css/futura-book");
+@import "_variable.scss";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: $color-white;
+    color: $color-dark;
+    // height: 300vh;
+    font-family: "Futura PT", sans-serif;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    transition: 0.5s;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+input,
+button {
+    font-family: inherit;
+    outline: none;
+}
+
+.display-1 {
+    font-size: $fs-16;
+    line-height: 1;
+}
+
+.headline-1 {
+    font-size: $fs-20;
+}
+
+.mrb50 {
+    margin-bottom: 50px;
+}
+
+.mrb30 {
+    margin-bottom: 30px;
+}
+
+.mrt30 {
+    margin-top: 30px;
+}
+.mrt50 {
+    margin-top: 50px;
+}
+
+.mrt80 {
+    margin-top: 80px;
+}
+
+.mrt120 {
+    margin-top: 120px;
+}
+
+.cl-black {
+    color: #000 !important;
+}
+
+.cl-red {
+    color: red;
+}
+
+.bg-blue {
+    background: linear-gradient(#b3ccff, #001a4d);
+}
+
+.bg-black {
+    background: linear-gradient(#666666, #000000);
+}
+
+.bg-brown {
+    background: linear-gradient(#ffd9b3, #4d1300);
+}
+
+.bg-green {
+    background: linear-gradient(#d6ffd9, #006007);
+}
+
+.bg-gray {
+    background: linear-gradient(#fcfcfc, #666666);
+}
+
+.bg-metallic {
+    background: linear-gradient(#757575, #ffffff, #a57164);
+}
+
+.bg-multi {
+    background: linear-gradient(#ff0000, #ffa500, #ffff00, #00ff00, #0000ff, #4b0082, #ee82ee);
+}
+
+.bg-neutral {
+    background: linear-gradient(#ffffff, #d99a6c);
+}
+
+.bg-orange {
+    background: linear-gradient(#ffd9b3, #ff4000);
+}
+
+.bg-pink {
+    background: linear-gradient(#ffcce6, #f00078);
+}
+
+.bg-purple {
+    background: linear-gradient(#ffccff, #660066);
+}
+
+.bg-red {
+    background: linear-gradient(#ff9999, #b70000);
+}
+
+.bg-white {
+    background: linear-gradient(#ffffff, #f0f0f0);
+}
+
+.bg-yellow {
+    background: linear-gradient(#fff5cc, #ffcc00);
+}
+
+.bg-gold {
+    background: #fcf6ba;
+}
+
+.bg-rosegold {
+    background: #f99c87;
+}
+.bg-sliver {
+    background: #b0b0b0;
+}
+.borderBottom {
+    border-bottom: 1px solid $color-gray-200;
+}
+.pBottom {
+    padding-bottom: 30px;
+}
+
+.carousel-control-prev2 {
+    left: -80px !important;
+    top: -100px !important;
+}
+
+.carousel-control-next2 {
+    right: -80px !important;
+    top: -100px !important;
+}
+
+.carousel-control-prev3 {
+    left: -100px !important;
+    top: -10px !important;
+}
+
+.carousel-control-next3 {
+    right: -100px !important;
+    top: -10px !important;
+}
+@media (min-width: 1200px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1050px;
+    }
+}
+
+// @media (min-width: 768px) {
+//     .container,
+//     .container-md,
+//     .container-sm {
+//         max-width: 790px;
+//     }
+// }

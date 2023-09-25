@@ -1,0 +1,15 @@
+.s-promotion {
+    background-color: $color-dark;
+    padding: 10px 0;
+    // display: none;
+    a {
+        color: $color-white;
+        display: block;
+        font-size: $fs-12;
+        text-align: center;
+
+        span {
+            font-weight: $fw-700;
+        }
+    }
+}

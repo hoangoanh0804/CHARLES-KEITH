@@ -1,0 +1,22 @@
+.s-categories {
+    margin-top: 15px;
+    .col-md-3 {
+        flex: 0 0 auto;
+        width: calc(100% / 5);
+    }
+}
+
+@media (max-width: 575px) {
+    .col-md-3 {
+        flex: 0 0 auto;
+        width: calc(100% / 2) !important;
+    }
+
+    .cardnone {
+        display: none !important;
+    }
+
+    .col-12 {
+        width: 100% !important;
+    }
+}

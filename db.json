@@ -1,0 +1,680 @@
+{
+    "product": [{}],
+    "user": [{}],
+    "footer": [
+        {
+            "button": "Subcribe",
+            "heading": "SUBSCRIBE TO OUR NEWSLETTER",
+            "title": "Keep your finger on the pulse of fashion with weekly round-ups of our latest arrivals, upcoming launches, special promotions and trend focused editorials.",
+            "information": [
+                {
+                    "smid": [
+                        {
+                            "col": 1,
+                            "heading": "SHOPPING WITH US",
+                            "list": [
+                                {
+                                    "one": "Gift Cards",
+                                    "two": "My Account",
+                                    "three": "Shipping & Tracking",
+                                    "four": "Returns & Exchanges",
+                                    "five": "Promotions",
+                                    "six": "Student Discount",
+                                    "seven": "Size Guidet"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "heading": "CUSTOMER CARE",
+                            "list": [
+                                {
+                                    "one": "Check Order Status",
+                                    "two": "Privilege Membership",
+                                    "three": "FAQ",
+                                    "four": "Contact Us",
+                                    "five": "Counterfeit Education"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "heading": "ABOUT US",
+                            "list": [
+                                {
+                                    "one": "Brand Profile",
+                                    "two": "CHARLES & KEITH GROUP",
+                                    "three": "Sustainability",
+                                    "four": "Impact Programme",
+                                    "five": "Franchising Opportunities",
+                                    "six": "Affiliates",
+                                    "seven": "Ambassadors",
+                                    "eight": "Virtual Store Experience"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 4,
+                            "heading": "FOLLOW US",
+                            "list": [{}]
+                        },
+                        {
+                            "col": 5,
+                            "heading": "DOWNLOAD OUR APP",
+                            "list": [
+                                {
+                                    "one": "img/footer/download1.svg",
+                                    "two": "img/footer/download2.svg"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 6,
+                            "heading": "ACCEPTED PAYMENT METHODS",
+                            "list": [
+                                {
+                                    "one": "img/footer/payment1.svg",
+                                    "two": "img/footer/payment2.svg",
+                                    "three": "img/footer/payment3.svg",
+                                    "four": "img/footer/payment4.svg",
+                                    "five": "img/footer/payment5.svg",
+                                    "six": "img/footer/payment6.svg",
+                                    "seven": "img/footer/payment7.svg",
+                                    "eight": "img/footer/payment8.svg",
+                                    "nine": "img/footer/payment9.svg",
+                                    "ten": "img/footer/payment10.svg",
+                                    "eleven": "img/footer/payment11.svg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sbottom": {
+                        "list": [
+                            {
+                                "one": "© CHARLES & KEITH, all rights reserved",
+                                "two": "Terms of Use",
+                                "three": "Data Protection",
+                                "four": "Privacy Policy",
+                                "five": "Cookies Policy"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "banner": [
+        {
+            "id": 1,
+            "img": "img/banner/banner1.jpg",
+            "heading": "The Canvas Capsule",
+            "title": "Stylish and functional at once",
+            "link": "SHOP THE STORY",
+            "img2": "img/banner/banner2.jpg",
+            "heading2": "The Canvas Capsule",
+            "title2": "Stylish and functional at once",
+            "link2": "SHOP THE STORY"
+        }
+    ],
+    "header": [
+        {
+            "logo": "img/logo.svg",
+            "li": [
+                {
+                    "country": "Singapore",
+                    "countryCode": "SG",
+                    "languague": "English",
+                    "location": "Find a store",
+                    "signIn": "Sign in"
+                }
+            ],
+            "information": [
+                {
+                    "id": 1,
+                    "heading": "NEW IN",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all",
+                                    "two": "Shoes",
+                                    "three": "Bags",
+                                    "four": "Jewellery",
+                                    "five": "Wallet",
+                                    "six": "Pre - orders"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "imgSrc": "img/submenu/img1.jpg",
+                            "title": "SHOP BUY COLLECTION",
+                            "subheading": "CHARLES & KEITH x DISNEY ZOOTOPIA",
+                            "list": [
+                                {
+                                    "one": "Spring Summer 2023",
+                                    "two": "The Bridal Collection",
+                                    "three": "CHARLES & KEITH Pixar Lotso Collection",
+                                    "four": "C-Capsule Collection",
+                                    "five": "both X CHARLES & KEITH",
+                                    "six": "The Purpose Collection",
+                                    "seven": "Gabine Collection",
+                                    "eight": "The Charlot Bag",
+                                    "nine": "The Koa Collection",
+                                    "ten": "The Petra Collection"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img2.jpg",
+                            "title": "SHOP EDIT",
+                            "subheading": "Summer 2023 Collection",
+                            "list": [
+                                {
+                                    "col": 1,
+                                    "imgSrc": "img/submenu/img3.jpg",
+                                    "submenu": "COLLABORATIONS",
+                                    "subheading": "ITZ MINE x CHARLES & KEITH"
+                                },
+                                {
+                                    "col": 2,
+                                    "imgSrc": "img/submenu/img4.jpg",
+                                    "submenu": "FASHION",
+                                    "subheading": "ITZY: Summer 2023 Collection"
+                                },
+                                {
+                                    "col": 3,
+                                    "imgSrc": "img/submenu/img5.jpg",
+                                    "submenu": "FASHION",
+                                    "subheading": "Summer's Calling"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "heading": "SHOP BUY",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "CURATED CHOICES",
+                            "subheading": "CHARLES & KEITH ICONS",
+                            "list": [
+                                {
+                                    "one": "Trending Now",
+                                    "two": "Online Excusives",
+                                    "three": "Back in Stock",
+                                    "four": "Gabine Collection",
+                                    "five": "The Charlot Bag",
+                                    "six": "The Koa Collection"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "imgSrc": "img/submenu/img1.jpg",
+                            "title": "SHOP BUY COLLECTION",
+                            "subheading": "CHARLES & KEITH x DISNEY ZOOTOPIA",
+                            "list": [
+                                {
+                                    "one": "Spring Summer 2023",
+                                    "two": "ITZY x CHARLES & KEITH: ITZ MINE",
+                                    "three": "The Bridal Collection",
+                                    "four": "CHARLES & KEITH x DISNEY Collection",
+                                    "five": "CHARLES & KEITH Pixar Losto Collection",
+                                    "six": "C-Capsule Collection",
+                                    "seven": "both X CHARLES & KEITH",
+                                    "eight": "The Purpose Collection"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "title": "SHOP BUY TRENDs",
+                            "list": [
+                                {
+                                    "one": "Barbiecore",
+                                    "two": "Gifts For Her",
+                                    "three": "Back To School",
+                                    "four": "Trending Now: Chunky Shoes",
+                                    "five": "Chain Details",
+                                    "six": "Notable Neutrals"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 4,
+                            "title": "occasions",
+                            "subheading": "Summer 2023 Collection",
+                            "imgSrc": "img/submenu/img2.jpg",
+                            "list": [
+                                {
+                                    "one": "Keep It Casual",
+                                    "two": "the party edit",
+                                    "three": "the bridal edit",
+                                    "four": "back to office"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "heading": "SHOES",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all shoes",
+                                    "two": "New arrival",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "Espadrilles",
+                                    "five": "Pumps",
+                                    "six": "Mules",
+                                    "seven": "loafers",
+                                    "eight": "kid's shoes",
+                                    "nine": "Flats",
+                                    "ten": "Scandals"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Spring Summer 2023",
+                                    "two": "ITZY x CHARLES & KEITH: ITZ MINE",
+                                    "three": "The Bridal Collection",
+                                    "four": "CHARLES & KEITH x DISNEY Collection",
+                                    "five": "CHARLES & KEITH Pixar Losto Collection",
+                                    "six": "C-Capsule Collection",
+                                    "seven": "both X CHARLES & KEITH",
+                                    "eight": "The Purpose Collection"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img6.jpg",
+                            "title": "SHOP BUY Occasion",
+                            "subheading": "Summer 2023 Collection",
+                            "list": [
+                                {
+                                    "one": "Barbiecore",
+                                    "two": "Gifts For Her",
+                                    "three": "Back To School",
+                                    "four": "Trending Now: Chunky Shoes",
+                                    "five": "Chain Details",
+                                    "six": "Notable Neutrals"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "BAGS",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all bags",
+                                    "two": "New arrivals",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "Crossbody bags",
+                                    "five": "Handbags",
+                                    "six": "Mules",
+                                    "seven": "Shoulder bags",
+                                    "eight": "tote bags",
+                                    "nine": "Mini bags",
+                                    "ten": "Clutches"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Spring Summer 2023",
+                                    "two": "ITZY x CHARLES & KEITH: ITZ MINE",
+                                    "three": "The Bridal Collection",
+                                    "four": "CHARLES & KEITH x DISNEY Collection",
+                                    "five": "CHARLES & KEITH Pixar Losto Collection",
+                                    "six": "C-Capsule Collection",
+                                    "seven": "both X CHARLES & KEITH",
+                                    "eight": "The Purpose Collection"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img7.jpg",
+                            "title": "SHOP BUY Occasion",
+                            "subheading": "Summer 2023 Collection",
+                            "list": [
+                                {
+                                    "one": "Essential",
+                                    "two": "Gifts For Her",
+                                    "three": "Party",
+                                    "four": "Wedding",
+                                    "five": "Work wear",
+                                    "six": "Notable Neutrals"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "heading": "WALLETS",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all Wallet",
+                                    "two": "New arrivals",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "small wallet",
+                                    "five": "long wallet",
+                                    "six": "wristlets & Pouches",
+                                    "seven": "card holder's"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Gabine small wallets",
+                                    "two": "the micro koa",
+                                    "three": "petra wallet collection",
+                                    "four": "trending now",
+                                    "five": "CHARLES & KEITH Pixar Losto Collection",
+                                    "six": "online exclusives",
+                                    "seven": "back in stock"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img8.jpg",
+                            "title": "SHOP BUY Occasion",
+                            "subheading": "Summer 2023 Collection",
+                            "list": [
+                                {
+                                    "one": "Barbiecore",
+                                    "two": "Gifts For Her",
+                                    "three": "Back To School",
+                                    "four": "Trending Now: Chunky Shoes",
+                                    "five": "Chain Details",
+                                    "six": "Notable Neutrals"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "heading": "SUNGLASSES",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all",
+                                    "two": "New arrivals",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "small wallet",
+                                    "five": "long wallet",
+                                    "six": "wristlets & Pouches",
+                                    "seven": "card holder's"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Gabine small wallets",
+                                    "two": "the micro koa",
+                                    "three": "petra wallet collection",
+                                    "four": "trending now",
+                                    "five": "CHARLES & KEITH Pixar Losto Collection",
+                                    "six": "online exclusives",
+                                    "seven": "back in stock"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img9.jpg",
+                            "title": "SHOP BUY Occasion",
+                            "subheading": "Summer 2023 Collection"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "heading": "ACCESSORIES",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all",
+                                    "two": "New arrivals",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "small wallet",
+                                    "five": "long wallet",
+                                    "six": "wristlets & Pouches",
+                                    "seven": "card holder's"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Gabine small wallets",
+                                    "two": "the micro koa",
+                                    "three": "petra wallet collection",
+                                    "four": "trending now",
+                                    "five": "CHARLES & KEITH Pixar Losto Collection",
+                                    "six": "online exclusives",
+                                    "seven": "back in stock"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img10.jpg",
+                            "title": "SHOP BUY Occasion",
+                            "subheading": "Summer 2023 Collection"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "heading": "KIDS",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all",
+                                    "two": "New arrivals",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "small wallet",
+                                    "five": "long wallet",
+                                    "six": "wristlets & Pouches",
+                                    "seven": "card holder's"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Gabine small wallets",
+                                    "two": "the micro koa",
+                                    "three": "petra wallet collection",
+                                    "four": "trending now",
+                                    "five": "CHARLES & KEITH Pixar Losto Collection",
+                                    "six": "online exclusives",
+                                    "seven": "back in stock"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img12.jpg",
+                            "title": "SHOP BUY Occasion",
+                            "subheading": "Summer 2023 Collection"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "heading": "SALE",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all Wallet",
+                                    "two": "New arrivals",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "small wallet"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Gabine small wallets",
+                                    "two": "the micro koa",
+                                    "three": "petra wallet collection",
+                                    "four": "trending now"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img13.jpg",
+                            "title": "SHOES",
+                            "imgSrc2": "img/submenu/img14.jpg",
+                            "title2": "BAGS",
+                            "imgSrc3": "img/submenu/img15.jpg",
+                            "title3": "WALLETS"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "heading": "SPRING SUMMER 2023",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all",
+                                    "two": "New arrivals",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "small wallet",
+                                    "five": "long wallet",
+                                    "six": "wristlets & Pouches",
+                                    "seven": "card holder's"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Gabine small wallets",
+                                    "two": "the micro koa",
+                                    "three": "petra wallet collection",
+                                    "four": "trending now",
+                                    "five": "CHARLES & KEITH Pixar Losto Collection",
+                                    "six": "online exclusives",
+                                    "seven": "back in stock"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img16.jpg",
+                            "title": "SHOP BUY Occasion",
+                            "subheading": "Summer 2023 Collection"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "heading": "SUMMER VACATION",
+                    "inner": [
+                        {
+                            "col": 1,
+                            "title": "SHOP BUY CATEGORY",
+                            "list": [
+                                {
+                                    "one": "View all Wallet",
+                                    "two": "New arrivals",
+                                    "three": "CHARLES & KEITH COLLECTION",
+                                    "four": "small wallet"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 2,
+                            "title": "in the spotlight",
+                            "list": [
+                                {
+                                    "one": "Gabine small wallets",
+                                    "two": "the micro koa",
+                                    "three": "petra wallet collection",
+                                    "four": "trending now"
+                                }
+                            ]
+                        },
+                        {
+                            "col": 3,
+                            "imgSrc": "img/submenu/img17.jpg",
+                            "title": "SUMMER VACATION",
+                            "imgSrc2": "img/submenu/img18.jpg",
+                            "title2": "SUMMER SCANDALS",
+                            "imgSrc3": "img/submenu/img19.jpg",
+                            "title3": "BEACH STYLE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

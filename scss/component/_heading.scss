@@ -1,0 +1,103 @@
+.c-headinga {
+    text-decoration: underline;
+    color: $color-dark;
+    font-size: $fs-16;
+    font-weight: 500;
+    text-transform: uppercase;
+    display: block;
+}
+
+.c-headingH2 {
+    font-size: $fs-24;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.c-headingH3 {
+    text-align: left;
+
+    font-weight: 600;
+    font-size: $fs-24;
+    margin-top: 14px;
+    font-family: "Gill Sans", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.c-headingH5 {
+    text-align: left;
+
+    font-weight: 500;
+    font-size: $fs-20;
+    margin-top: 14px;
+}
+
+.c-headingH6 {
+    text-align: left;
+
+    font-weight: 500;
+    font-size: $fs-16;
+    text-transform: uppercase;
+    margin-top: 14px;
+}
+.c-headingH4 {
+    font-size: $fs-16;
+    line-height: 20px;
+}
+
+.c-headingP {
+    text-align: left;
+    font-weight: 400;
+    font-size: $fs-18;
+    margin-top: 7px;
+}
+
+.c-headingp {
+    text-align: left;
+    font-weight: 400;
+    font-size: $fs-16;
+    margin-top: 7px;
+}
+
+@media (max-width: 991px) {
+    .c-headingH3 {
+        font-size: $fs-20;
+        margin-top: 5px;
+        margin-bottom: 10px !important;
+    }
+
+    .c-headingH5 {
+        font-size: $fs-17;
+    }
+
+    .c-headingH6 {
+        font-size: $fs-14;
+    }
+
+    .c-headingP {
+        font-size: $fs-16;
+        width: 90%;
+    }
+    .c-headingp {
+        font-size: $fs-16;
+        width: 100%;
+    }
+
+    .c-headinga {
+        font-size: $fs-14;
+    }
+}
+
+@media (max-width: 575px) {
+    .c-headinga {
+        font-size: $fs-12;
+        margin-bottom: 10px !important;
+    }
+}
+
+@media (max-width: 575px) {
+    .c-headingH3 {
+        font-size: $fs-16;
+        margin-top: 0 !important;
+        margin-bottom: 5px !important;
+    }
+}

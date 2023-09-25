@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="./css/all.min.css" />
+        <title>The Canvas For All Seasons</title>
+        <!-- Latest compiled and minified CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+        <link rel="stylesheet" href="css/style.css" />
+    </head>
+    <body>
+        <!-- HEADER -->
+        <div class="s-header"></div>
+        <div class="s-header_mobilebox"></div>
+
+        <!-- CREATE ACCOUNT -->
+        <div class="s-create_account">
+            <div class="s_inner">
+                <nav aria-label="breadcrumb mt-5">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active text-dark fw-bold" aria-current="page">Create an Account</li>
+                    </ol>
+                </nav>
+
+                <div class="s_form">
+                    <h4 class="s_heading">CREATE AN ACCOUNT</h4>
+                    <p class="s_title">
+                        Save your information to check out faster, save items to your wishlist, and view your purchase and return history.
+                    </p>
+
+                    <p class="s_title">Note: Only orders that are placed after account creation will be reflected in your CHARLES & KEITH account.</p>
+
+                    <p class="s_note">* These fields are required</p>
+                    <input type="text" placeholder="First Name *" />
+                    <input type="text" placeholder="Last Name *" />
+                    <div class="form-group">
+                        <div class="s_date">
+                            <label class="col-form-label c-form_label c-form_label--required"> Date of Birth: *</label>
+                        </div>
+                        <div class="col-md-3 col-12 mb-0 form_separator required">
+                            <select class="form-control custom-select js-birth-year" id="birthYear">
+                                <option id="" value="" selected="">YYYY</option>
+                                <option id="2005" value="2005">2005</option>
+                                <option id="2004" value="2004">2004</option>
+                                <option id="2003" value="2003">2003</option>
+                                <option id="2002" value="2002">2002</option>
+                                <option id="2001" value="2001">2001</option>
+                                <option id="2000" value="2000">2000</option>
+                                <option id="1999" value="1999">1999</option>
+                                <option id="1998" value="1998">1998</option>
+                                <option id="1997" value="1997">1997</option>
+                                <option id="1996" value="1996">1996</option>
+                                <option id="1995" value="1995">1995</option>
+                                <option id="1994" value="1994">1994</option>
+                                <option id="1993" value="1993">1993</option>
+                                <option id="1992" value="1992">1992</option>
+                                <option id="1991" value="1991">1991</option>
+                                <option id="1990" value="1990">1990</option>
+                                <option id="1989" value="1989">1989</option>
+                                <option id="1988" value="1988">1988</option>
+                                <option id="1987" value="1987">1987</option>
+                                <option id="1986" value="1986">1986</option>
+                                <option id="1985" value="1985">1985</option>
+                            </select>
+
+                            <i class="fa-regular fa-angle-down"></i>
+                        </div>
+                        <div class="form-group col-md-3 col-12 mb-0 form_separator required">
+                            <select class="form-control custom-select js-birth-month" id="birthMonth">
+                                <option id="" value="">MM</option>
+                                <option id="01" value="0">01</option>
+                                <option id="02" value="1">02</option>
+                                <option id="03" value="2">03</option>
+                                <option id="04" value="3">04</option>
+                                <option id="05" value="4">05</option>
+                                <option id="06" value="5">06</option>
+                                <option id="07" value="6">07</option>
+                                <option id="08" value="7">08</option>
+                                <option id="09" value="8">09</option>
+                                <option id="10" value="9">10</option>
+                                <option id="11" value="10">11</option>
+                                <option id="12" value="11">12</option>
+                            </select>
+
+                            <i class="fa-regular fa-angle-down"></i>
+                        </div>
+                        <div class="form-group col-md-3 col-12 mb-0 required form_separator">
+                            <select class="form-control custom-select js-birth-day" id="birthDay">
+                                <option id="" value="" selected="">DD</option>
+                                <option id="1" value="1">1</option>
+                                <option id="2" value="2">2</option>
+                                <option id="3" value="3">3</option>
+                                <option id="4" value="4">4</option>
+                                <option id="5" value="5">5</option>
+
+                                <option id="6" value="6">6</option>
+                                <option id="7" value="7">7</option>
+                                <option id="8" value="8">8</option>
+                                <option id="9" value="9">9</option>
+                                <option id="10" value="10">10</option>
+                                <option id="11" value="11">11</option>
+                                <option id="12" value="12">12</option>
+                                <option id="13" value="13">13</option>
+                                <option id="14" value="14">14</option>
+                                <option id="15" value="15">15</option>
+                                <option id="16" value="16">16</option>
+                                <option id="17" value="17">17</option>
+                                <option id="18" value="18">18</option>
+                                <option id="19" value="19">19</option>
+                                <option id="20" value="20">20</option>
+                                <option id="21" value="21">21</option>
+                                <option id="22" value="22">22</option>
+                                <option id="23" value="23">23</option>
+                                <option id="24" value="24">24</option>
+                                <option id="25" value="25">25</option>
+                                <option id="26" value="26">26</option>
+                                <option id="27" value="27">27</option>
+                                <option id="28" value="28">28</option>
+                                <option id="29" value="29">29</option>
+                                <option id="30" value="30">30</option>
+                                <option id="31" value="31">31</option>
+                            </select>
+
+                            <i class="fa-regular fa-angle-down"></i>
+                        </div>
+                    </div>
+                    <div class="s_PhoneNumber">
+                        <div class="dropdown_input-inner">
+                            <div class="dropdown_input-columns">
+                                <div class="">
+                                    <label class="dropdown_input-label"> Contact Number: * </label>
+                                </div>
+                                <div class="dropdown_input-controls">
+                                    <div class="input-group dropdown_input-control_group">
+                                        <div class="form-group mb-0">
+                                            <select id="profilePhoneNumber_dropdown_input_select" class="form-control custom-select" value="+84">
+                                                <option value="+1">+1</option>
+                                                <option value="+7">+7</option>
+                                                <option value="010">010</option>
+
+                                                <option value="+20">+20</option>
+                                                <option value="+27">+27</option>
+                                                <option value="+30">+30</option>
+                                                <option value="+31">+31</option>
+                                                <option value="+32">+32</option>
+                                                <option value="+33">+33</option>
+                                                <option value="+34">+34</option>
+                                                <option value="+36">+36</option>
+                                                <option value="+39">+39</option>
+                                                <option value="+40">+40</option>
+                                                <option value="+41">+41</option>
+                                                <option value="+43">+43</option>
+                                                <option value="+44">+44</option>
+                                                <option value="+45">+45</option>
+                                                <option value="+46">+46</option>
+                                                <option value="+47">+47</option>
+                                                <option value="+48">+48</option>
+                                                <option value="+49">+49</option>
+                                                <option value="+52">+52</option>
+                                                <option value="+60">+60</option>
+                                                <option value="+61">+61</option>
+                                                <option value="+62">+62</option>
+                                                <option value="+63">+63</option>
+                                                <option value="+64">+64</option>
+                                                <option value="+65">+65</option>
+                                                <option value="+66">+66</option>
+                                                <option value="+81">+81</option>
+                                                <option value="+84" selected="">+84</option>
+                                                <option value="+86">+86</option>
+                                                <option value="+91">+91</option>
+                                                <option value="+92">+92</option>
+                                                <option value="+94">+94</option>
+                                                <option value="+95">+95</option>
+                                                <option value="+98">+98</option>
+                                                <option value="+212">+212</option>
+                                                <option value="+218">+218</option>
+                                                <option value="+230">+230</option>
+                                                <option value="+351">+351</option>
+                                                <option value="+352">+352</option>
+                                                <option value="+353">+353</option>
+                                                <option value="+356">+356</option>
+                                                <option value="+358">+358</option>
+                                                <option value="+359">+359</option>
+                                                <option value="+370">+370</option>
+                                                <option value="+371">+371</option>
+                                                <option value="+372">+372</option>
+                                                <option value="+374">+374</option>
+                                                <option value="+385">+385</option>
+                                                <option value="+386">+386</option>
+                                                <option value="+420">+420</option>
+                                                <option value="+421">+421</option>
+                                                <option value="+507">+507</option>
+                                                <option value="+673">+673</option>
+                                                <option value="+852">+852</option>
+                                                <option value="+853">+853</option>
+                                                <option value="+855">+855</option>
+                                                <option value="+886">+886</option>
+                                                <option value="+961">+961</option>
+                                                <option value="+962">+962</option>
+                                                <option value="+965">+965</option>
+                                                <option value="+966">+966</option>
+                                                <option value="+968">+968</option>
+                                                <option value="+971">+971</option>
+                                                <option value="+972">+972</option>
+                                                <option value="+973">+973</option>
+                                                <option value="+974">+974</option>
+                                                <option value="+976">+976</option>
+                                                <option value="+994">+994</option>
+                                                <option value="+995">+995</option>
+                                            </select>
+                                            <i class="fa-regular fa-angle-down icon-number"></i>
+                                        </div>
+                                        <div class="input-group-append">
+                                            <input id="profilePhoneNumber_dropdown_input_field" placeholder="Contact Number" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <input type="text" placeholder="Email Address *" />
+                    <input type="text" placeholder="Password *" />
+                    <input type="text" placeholder="Confirm Password *" />
+
+                    <div class="s_form-checkbox">
+                        <input class="s_checkbox" type="checkbox" />
+                        <p class="s_title">Send me CHARLES & KEITH new arrival updates, offers, and more.</p>
+                    </div>
+                    <div class="s_form-checkbox">
+                        <input class="s_checkbox" type="checkbox" />
+                        <p class="s_title">I agree to CHARLES & KEITH’s <span>Terms & Conditions</span> and <span>Privacy Policy</span> .</p>
+                    </div>
+                    <button class="s_signin">CREATE AN ACCOUNT</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- FOOTER -->
+
+        <div class="s-footer"></div>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+        <script src="js/home.js"></script>
+    </body>
+</html>

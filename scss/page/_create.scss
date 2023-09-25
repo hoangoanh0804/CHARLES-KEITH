@@ -1,0 +1,138 @@
+.s-create_account {
+    margin-top: 115px;
+    padding: 0 30px;
+
+    .s_form {
+        width: 50%;
+        margin: 0 auto;
+
+        .s_heading {
+            text-align: center;
+            font-size: $fs-24;
+            margin-bottom: 15px;
+        }
+
+        .s_note {
+            color: $color-gray;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border: 1px solid #ced4da;
+        }
+
+        .s_signin {
+            width: 100%;
+            margin-top: 30px;
+            padding: 8px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border: 1px solid $color-dark;
+            background-color: $color-white;
+        }
+
+        .form-group {
+            display: flex;
+            align-items: center;
+            // flex-wrap: wrap;
+            gap: 18px;
+            margin-bottom: 10px;
+
+            .form_separator {
+                position: relative;
+            }
+            i {
+                position: absolute;
+                top: 6px;
+                right: 11px;
+                color: $color-dark;
+                z-index: 999;
+            }
+
+            .icon-number {
+                top: 8px;
+                left: 58px;
+            }
+        }
+
+        .dropdown_input-columns {
+            display: flex;
+            align-items: center;
+            gap: 100px;
+            margin: 10px 0;
+        }
+
+        .form-control {
+            padding: 8px 20px;
+        }
+
+        .input-group {
+            position: relative;
+
+            .form-group {
+                position: absolute;
+                top: 0;
+                left: -85px;
+            }
+        }
+
+        .s_form-checkbox {
+            display: flex;
+            align-items: center;
+
+            margin-top: 10px;
+            gap: 20px;
+
+            .s_checkbox {
+                width: 20px;
+            }
+
+            .s_title {
+                span {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 991px) {
+    .s-create_account {
+        margin-top: 100px;
+        .s_form {
+            width: 70%;
+        }
+    }
+}
+
+@media (max-width: 575px) {
+    .s-create_account {
+        margin-top: 80px;
+        .s_form {
+            width: 100%;
+
+            .s_heading {
+                font-size: $fs-20;
+            }
+        }
+    }
+
+    .s_form-checkbox {
+        .s_title {
+            font-size: $fs-14;
+        }
+    }
+
+    .s_form {
+        .s_signin {
+            font-size: $fs-14;
+        }
+    }
+
+    .form-group {
+        flex-wrap: wrap;
+    }
+}
